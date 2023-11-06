@@ -1,4 +1,4 @@
-#!/bin/python3
+#!/usr/bin/env python3
 
 class CodeWriter:
     SP_inc = '// SP++\n@SP\nM=M+1\n'
